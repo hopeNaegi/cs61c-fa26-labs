@@ -1,0 +1,20 @@
+OSTYPE='cygwin'
+BASH_VERSION='GNU bash, version 5.3.15(2)-release (x86_64-pc-cygwin)
+Copyright (C) 2025 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.'
+SH_VERSION='GNU bash, version 5.3.15(2)-release (x86_64-pc-cygwin)
+Copyright (C) 2025 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.'
+GIT_VERSION='git version 2.55.0.windows.5'
+PYTHON3_VERSION='Python 3.13.15'
+PYTHON_VERSION='Python 3.13.15'
+PY_VERSION='Python 3.13.15'
+JAVA_VERSION='openjdk version "17.0.20.1" 2026-08-18
+OpenJDK Runtime Environment Temurin-17.0.20.1+1 (build 17.0.20.1+1)
+OpenJDK 64-Bit Server VM Temurin-17.0.20.1+1 (build 17.0.20.1+1, mixed mode, sharing)'
